@@ -1,5 +1,5 @@
 <div>
-  <h1 align="center"><a href="https://www.linkedin.com/in/maiamatheus/"><i>Matheus Maia</i></a></h1>
+  <h1 align="center" style="color:white"><a href="https://www.linkedin.com/in/maiamatheus/">Matheus Maia</a></h1>
   
 </div>
 
