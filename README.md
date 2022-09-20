@@ -11,7 +11,7 @@
   
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Matheus-Python" height="30" width="40" src="https://github.com/mathemaia/mathemaia/blob/main/icon/python.svg">
-  <img align="center" alt="Matheus-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" />
+  <img align="center" alt="Matheus-Java" height="35" width="45" src="https://github.com/mathemaia/mathemaia/blob/main/icon/java.svg" />
   <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="github" height="30" width="40" src="https://github.com/mathemaia/mathemaia/blob/main/icon/github.svg"> 
   <img align="center" alt="linux" height="35" width="45" src="https://github.com/mathemaia/mathemaia/blob/main/icon/linux.svg">
